@@ -1,6 +1,6 @@
 name: kyle
 favicon: null
-layout_spectrum: 0.9393598076421767
+layout_spectrum: 1
 typography_spectrum: 0.0174344836268574
 title: The Kyle Grid
 cta:
@@ -23,7 +23,7 @@ color:
     - '#ff0000'
     - '#2b7466'
   brandStrength: 0.625
-  lightness: 0.30065738572739065
+  lightness: 0.3125
   saturation: 0.7564757955260575
   rhythmicContrast: 0.6081062769517303
 purpose: []

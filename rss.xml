@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[kyle]]></title>
-        <description><![CDATA[kyle]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[The Kyle Grid]]></title>
+        <description><![CDATA[The Kyle Grid]]></description>
+        <link>https://thegrid.ai/kyle/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 12 Nov 2015 17:00:05 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 12 Nov 2015 17:28:48 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kyle/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://i.imgur.com/B8gTG2g.jpg">]]></description>
+            <link>https://thegrid.ai/kyle/9768fdb2-137f-4c3d-8f64-9ec0fa98c3cc/index.html</link>
+            <guid isPermaLink="false">9768fdb2-137f-4c3d-8f64-9ec0fa98c3cc</guid>
+            <pubDate>Thu, 12 Nov 2015 17:28:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Testing]]></title>
             <description><![CDATA[<article><h1>Testing</h1><p>Testing testing TESTING </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0c8b2bab-d856-4f04-b1d3-567c362ed135.jpg"></article>]]></description>
-            <link>undefinedtesting/index.html</link>
+            <link>https://thegrid.ai/kyle/testing/index.html</link>
             <guid isPermaLink="false">cb187848-5512-4e3d-a631-82fac3dd5f96</guid>
             <pubDate>Thu, 12 Nov 2015 16:59:55 GMT</pubDate>
         </item>
